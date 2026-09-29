@@ -1,0 +1,1 @@
+print("dedsec terminal online")
